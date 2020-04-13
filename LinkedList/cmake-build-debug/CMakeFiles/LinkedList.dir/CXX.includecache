@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Fabrizio/CLionProjects/Poo2/Semana1/EJERCICIO_GIT_HUB_LINKED_LIST/LinkedList/LinkedList.hpp
+cctype
+-
+ostream
+-
+algorithm
+-
+utility
+-
+vector
+-
+
+/Users/Fabrizio/CLionProjects/Poo2/Semana1/EJERCICIO_GIT_HUB_LINKED_LIST/LinkedList/main.cpp
+iostream
+-
+string
+-
+LinkedList.hpp
+/Users/Fabrizio/CLionProjects/Poo2/Semana1/EJERCICIO_GIT_HUB_LINKED_LIST/LinkedList/LinkedList.hpp
+
